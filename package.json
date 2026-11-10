@@ -1,0 +1,11 @@
+{
+  "name": "clave",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clave — an upper/lower strength tracker with movement-variation recommendations.",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 5173",
+    "test": "node --test"
+  }
+}
